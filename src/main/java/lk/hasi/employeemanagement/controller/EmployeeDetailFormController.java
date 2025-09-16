@@ -73,7 +73,7 @@ public class EmployeeDetailFormController {
         else
             System.out.println("Error");
 
-
+        System.out.println("Hellow");
     }
 
     @FXML
